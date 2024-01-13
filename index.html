@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./main.css">
+    <title>Verificador de números</title>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+
+</head>
+<body>
+    <div class="container">
+        <h1>Comparador de números</h1>
+
+        <form id="validation-form">
+            <label for="inputA">Campo A</label>
+            <input type="number" name="campo A" id="inputA" required>
+            
+            <label for="inputB">Campo B</label>
+            <input type="number" name="campo B" id="inputB" required>
+
+            <button type="submit" id="submit-btn">Comparar números</button>
+        </form>
+       <p id="valid-message"></p>
+       <p id="invalid-message"></p>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
