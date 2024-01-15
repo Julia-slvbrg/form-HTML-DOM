@@ -25,14 +25,9 @@ This application is a study of the use of the DOM to display information on the 
 
 ![InvalidMessage](./public/invalid.png)
 
-
-
 ## Demonstration
 
-
-https://github.com/Julia-slvbrg/split-the-check/assets/114543081/406c3626-3617-4b42-9066-74a359be5d5c
-
-
+https://github.com/Julia-slvbrg/form-HTML-DOM/assets/114543081/7575fc2d-9c26-4377-aabe-388653cd3483
 
 
 ## How to run the application
