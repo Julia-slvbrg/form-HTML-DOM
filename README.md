@@ -36,7 +36,7 @@ https://github.com/Julia-slvbrg/form-HTML-DOM/assets/114543081/7575fc2d-9c26-437
 $ git clone repolink
 
 # Acess the app folder on your terminal
-$ cd for-HTML-DOM  
+$ cd form-HTML-DOM  
 
 # Utilize a local server launch tool to view the application in your browser
 
